@@ -24,4 +24,4 @@ The Online Examination System is a web-based application designed for conducting
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/online-exam-system.git
+   git clone https://github.com/rakeshraki6266/Online-Quiz
